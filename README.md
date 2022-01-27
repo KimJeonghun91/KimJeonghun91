@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=RightHot&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun%2091&fontSize=90&animation=fadeIn&fontAlignY=38&desc=RightHot&descAlignY=51&descAlign=62)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> <br/>
