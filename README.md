@@ -1,7 +1,7 @@
 
-<p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=RightHot&fontSize=70&animation=twinkling)
-</p>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> <br/>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<br>
+<br><br/>
 
 <h3 align="center">🪄 My Project 🪄</h3> <br/>
 
@@ -27,7 +27,7 @@
 </p>
 
   
-<br>
+<br><br/>
 
 
 <h3 align="center"> 🧸 Me 🧸 </h3>  <br/>
