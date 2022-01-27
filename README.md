@@ -1,7 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun%2091&fontSize=90&animation=fadeIn&fontAlignY=38&desc=RightHot&descAlignY=70&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun%2091&fontSize=90&animation=fadeIn&fontAlignY=38&desc=RightHot&descAlignY=67&descAlign=80)
 
+<br/><br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> <br/>
 
