@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun%2091&fontSize=90&animation=fadeIn&fontAlignY=38&desc=RightHot&descAlignY=67&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=65&descAlign=82)
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 <h3 align="center">🪄 My Project 🪄</h3> <br/>
 
 <p align="center">
-  <a href="https://blog.naver.com/0610studio/222436408745"><img src="https://kimjeonghun91.github.io/assets/img/projects/thumb_barabom.png"/></a>
+  <a href="https://blog.naver.com/0610studio/222436408745"><img src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png"/></a>
 </p>
 
   
