@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=63&descAlign=84)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=60&descAlign=83)
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 <br><br/>
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>  <br/>
+<h3 align="center"> 🤚 Me 🤚 </h3>  <br/>
 <p align="center">
 <a href="https://kimjeonghun91.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a> &nbsp;
 <a href="https://www.facebook.com/righthot" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/> </a> &nbsp;
