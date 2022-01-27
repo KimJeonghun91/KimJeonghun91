@@ -1,12 +1,12 @@
 
-<p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=RightHot&fontSize=70&animation=twinkling)
-</p>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ios-212121?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp 
