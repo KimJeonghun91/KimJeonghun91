@@ -1,13 +1,13 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=65&descAlign=82)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=63&descAlign=84)
 
 <br/><br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ios-212121?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp <br/>
