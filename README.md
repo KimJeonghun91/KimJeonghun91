@@ -23,6 +23,11 @@
 
 <h3 align="center">🪄 My Project 🪄</h3> <br/>
 
+
+<p align="center">
+  플레이스토어, 앱스토어에서 '바라봄' 검색!<br/>
+  '별점'과 '리뷰' 한번만 부탁드립니다. 🙏
+</p>
 <p align="center">
   <a href="https://blog.naver.com/0610studio/222436408745"><img src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
 </p>
@@ -31,7 +36,7 @@
 <br><br/>
 
 
-<h3 align="center"> 🤚 Me 🤚 </h3>  <br/>
+<h3 align="center">Me 🤚 </h3>  <br/>
 <p align="center">
 <a href="https://kimjeonghun91.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a> &nbsp;
 <a href="https://www.facebook.com/righthot" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/> </a> &nbsp;
