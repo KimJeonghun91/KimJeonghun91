@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3> <br/>
+<h3 align="center">Tech Stack 🛠</h3> <br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
@@ -21,7 +21,7 @@
 
 <br><br/>
 
-<h3 align="center">🪄 My Project 🪄</h3> <br/>
+<h3 align="center">My Project 🪄</h3> <br/>
 
 
 <p align="center">
