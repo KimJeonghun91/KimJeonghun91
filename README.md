@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://blog.naver.com/0610studio/222436408745"><img src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
 </p>
-
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/59USvjy2toI)
 
 <br><br/>
 
