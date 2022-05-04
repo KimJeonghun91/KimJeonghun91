@@ -29,14 +29,6 @@
   별점과 리뷰 한번만 부탁드립니다. 🙏
 </p>
 
-
-<p align="center">
-  <a width = 250px height = 80px href="https://apps.apple.com/kr/app/id1516235091"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjc3/MDAxNjAyMzA5MjIyMTcz.NJVjxZ0sYOYo-DrQLiH-g36q8b6LQtzw9PmRgSwacewg.D1aiu9Y3OIVk41nvMaAz323S9Q_K7ypxmKXR13tMs50g.PNG.0610studio/apple.png?type=w966"/></a>
-  
-  <a width = 250px height = 80px href="https://play.google.com/store/apps/details?id=com.rn_drpet"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjQ5/MDAxNjAyMzA5MzIyODg5.E7bmG0k-FRax2jdm8tQDolYI_lPYwPvLp9ckKl6lnTwg.IFYvb7SY3SFIzGsTIDfrpjqpTLDyqzzfO18yR2daHbog.PNG.0610studio/google.png?type=w966"/></a>
-</p>
-
-
 <p align="center">
   <a href="https://blog.naver.com/0610studio/222436408745"><img src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
 </p>
