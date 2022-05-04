@@ -31,9 +31,9 @@
 
 
 <p align="center">
-  <a href="https://apps.apple.com/kr/app/id1516235091"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjc3/MDAxNjAyMzA5MjIyMTcz.NJVjxZ0sYOYo-DrQLiH-g36q8b6LQtzw9PmRgSwacewg.D1aiu9Y3OIVk41nvMaAz323S9Q_K7ypxmKXR13tMs50g.PNG.0610studio/apple.png?type=w966"/></a>
+  <a width = 250px height = 80px href="https://apps.apple.com/kr/app/id1516235091"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjc3/MDAxNjAyMzA5MjIyMTcz.NJVjxZ0sYOYo-DrQLiH-g36q8b6LQtzw9PmRgSwacewg.D1aiu9Y3OIVk41nvMaAz323S9Q_K7ypxmKXR13tMs50g.PNG.0610studio/apple.png?type=w966"/></a>
   
-  <a href="https://play.google.com/store/apps/details?id=com.rn_drpet"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjQ5/MDAxNjAyMzA5MzIyODg5.E7bmG0k-FRax2jdm8tQDolYI_lPYwPvLp9ckKl6lnTwg.IFYvb7SY3SFIzGsTIDfrpjqpTLDyqzzfO18yR2daHbog.PNG.0610studio/google.png?type=w966"/></a>
+  <a width = 250px height = 80px href="https://play.google.com/store/apps/details?id=com.rn_drpet"><img src="https://postfiles.pstatic.net/MjAyMDEwMTBfMjQ5/MDAxNjAyMzA5MzIyODg5.E7bmG0k-FRax2jdm8tQDolYI_lPYwPvLp9ckKl6lnTwg.IFYvb7SY3SFIzGsTIDfrpjqpTLDyqzzfO18yR2daHbog.PNG.0610studio/google.png?type=w966"/></a>
 </p>
 
 
