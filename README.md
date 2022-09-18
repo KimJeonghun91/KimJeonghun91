@@ -26,7 +26,8 @@
 
 <p align="center">
   플레이스토어, 앱스토어에서 "바라봄" 검색!<br/>
-  별점과 리뷰 한번만 부탁드립니다. 🙏
+  별점과 리뷰 한번만 부탁드립니다. 🙏<br/>
+  <a href="http://barabom.me">바라봄 홈페이지</a>
 </p>
 
 <p align="center">
