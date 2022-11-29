@@ -48,12 +48,16 @@
 
 - 똑똑한 반려동물 건강수첩 "바라봄"
   
-  플레이스토어, 앱스토어에서 "바라봄" 검색!<br/>
+  홈페이지 : <a href="https://barabom.me">https://barabom.me</a><br/>
+  
+  <a href="https://play.google.com/store/apps/details?id=com.rn_drpet">구글 플레이</a><br/>
+  
+  <a href="https://apps.apple.com/kr/app/id1516235091">애플 앱스토어</a><br/>
   
   별점⭐️과 리뷰💬 한번만 부탁드립니다. 🙏<br/>
  
   <div align="left"> 
-      <a href="http://barabom.me"><img style="width:600px; height:350px;" src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
+      <a href="https://barabom.me"><img style="width:600px; height:350px;" src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
   </div>
 
 
