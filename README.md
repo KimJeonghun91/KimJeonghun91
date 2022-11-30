@@ -15,11 +15,18 @@
 
 ## :star2: 기술
 
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<p align="left">
-<!-- <img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- <p align="left">
+<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ios-212121?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp <br/>
@@ -28,8 +35,8 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-</p>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p> -->
 
 - (APP) 백그라운드 GPS 통신.
 - (APP) WebRTC 및 외부 STUN/TURN 서버를 이용한 영상 통화 앱 개발.
