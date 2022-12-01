@@ -58,7 +58,7 @@
 
 ## :camera: 프로젝트
 
-- 똑똑한 반려동물 건강수첩 "바라봄"
+- (개인 사이드프로젝트) 똑똑한 반려동물 건강수첩 "바라봄"
   
   홈페이지 : <a href="https://barabom.me">https://barabom.me</a><br/>
   
