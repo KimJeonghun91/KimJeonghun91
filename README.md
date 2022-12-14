@@ -1,14 +1,21 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=60&descAlign=83)
 
+<br/>
 
-
-## :notebook_with_decorative_cover: 소개
-
-디자인과 UI/UX 를 고민하는 개발자입니다. 특히 유저경험이 중요하다고 생각하며,<br>
-" 서비스의 대상이 누구인가? "  ,  " 유저가 서비스를 사용하면서 불편함은 없을까? "<br>
-매일 고민하며 운영중인 서비스를 점검하고 발전 시킵니다.
+<table style="text-align: center; border-collapse: collapse">
+  <tbody>
+    <tr style="border: none">
+      <td colspan="3" style="border: none; text-align: start">
+        <h2>🏷 소개</h2>
+      </td>
+    </tr>
+    <tr style="border: none">
+      <p>디자인과 UI/UX 를 고민하는 개발자입니다. 특히 유저경험이 중요하다고 생각하며,</p>
+      <p>" 서비스의 대상이 누구인가? "  ,  " 유저가 서비스를 사용하면서 불편함은 없을까? "</p>
+      <p>매일 고민하며 운영중인 서비스를 점검하고 발전 시킵니다.</p>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
