@@ -2,14 +2,14 @@
 
 <br/>
 
-<table style="text-align: center; border-collapse: collapse">
+<table style="text-align: center; border-collapse: collapse;" width="100%">
   <tbody>
     <tr style="border: none">
       <td style="border: none; text-align: start">
         <h2>🏷 소개</h2>
       </td>
     </tr>
-    <tr style="border: none">
+    <tr style="border: none; padding: 20px;">
       <td style="border: none">
         <p>디자인과 UI/UX 를 고민하는 개발자입니다. 특히 유저경험이 중요하다고 생각하며,</p>
         <p>" 서비스의 대상이 누구인가? "  ,  " 유저가 서비스를 사용하면서 불편함은 없을까? "</p>
