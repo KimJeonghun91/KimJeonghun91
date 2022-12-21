@@ -68,7 +68,7 @@
   별점⭐️과 리뷰💬 한번만 부탁드립니다. 🙏<br/>
  
   <div align="left"> 
-      <a href="https://barabom.me"><img style="width:800px; height:400px;" src="https://barabom.me/assets/img_orimage.jpg"/></a>
+      <a href="https://barabom.me"><img style="width:500px; height:250px;" src="https://barabom.me/assets/img_orimage.jpg"/></a>
   </div>
 
 
