@@ -68,7 +68,7 @@
   별점⭐️과 리뷰💬 한번만 부탁드립니다. 🙏<br/>
  
   <div align="left"> 
-      <a href="https://barabom.me"><img style="width:600px; height:350px;" src="https://postfiles.pstatic.net/MjAyMTA3MThfMjI4/MDAxNjI2NjEwMzMwNDEz.ZbY_wY2MMo7Nna3mIGonOfN9y7Rk2bglZDG-mhdSeTAg.byN-YOq8o8rsfaO5Su3MfoETggkgTmhY-LrNLR2i914g.PNG.0610studio/SE-1e4c3171-e1d0-46a4-a7e6-b78b1fabd6c2.png?type=w966"/></a>
+      <a href="https://barabom.me"><img style="width:800px; height:400px;" src="https://barabom.me/assets/img_orimage.jpg"/></a>
   </div>
 
 
