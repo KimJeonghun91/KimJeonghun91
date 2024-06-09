@@ -103,3 +103,15 @@
 <p align="left">
 <a href="https://www.instagram.com/right_hot" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
 </p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/KimJeonghun91"
+    width="600"
+    height="120"
+  />
+</a>
+  
