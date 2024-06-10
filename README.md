@@ -108,10 +108,10 @@
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/KimJeonghun91"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/KimJeonghun91"
+  width="600"
+  height="300"
+/>
 </a>
   
