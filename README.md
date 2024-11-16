@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJeonghun91&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Right%20Hot&descAlignY=60&descAlign=83)
-
-
 ## :notebook_with_decorative_cover: 소개
 
 디자인과 UI/UX 를 고민하는 개발자입니다. 특히 유저경험이 중요하다고 생각하며,<br>
