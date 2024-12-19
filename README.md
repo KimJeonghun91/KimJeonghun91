@@ -11,43 +11,14 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- <p align="left">
-<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/ios-212121?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp <br/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp 
-<img src="https://img.shields.io/badge/typescript-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p> -->
-
-- (APP) 백그라운드 GPS 통신.
-- (APP) WebRTC 및 외부 STUN/TURN 서버를 이용한 영상 통화 앱 개발.
-- (APP) CallKit을 사용한 통화 앱 개발.
-- (APP) 사이클링 장비와 BLE 통신을 통한 피트니스 앱 개발.
-- (APP) 인앱(In-App Purchase) 결제 및 구독.
-- (APP) PUSH 서비스.
-- (APP) Firebase를 사용한 Crash , Analytics 관리 , Deep link 처리.
-- (APP) SNS 로그인.
-- (APP) Firebase RDB를 이용한 실시간 채팅.
-- (BE) NodeJS , Express 를 이용한 API 서버 개발.
-- (BE) Push 발송 스케쥴 개발.
-- (BE) MySql DB 설계.
-- (WEB) React 기반 관리자 WebPage 개발.
-- (WEB) NextJS 기반 WebPage 개발.
 
 
 <br/>
@@ -55,6 +26,10 @@
 ## :camera: 프로젝트
 
 - (개인 사이드프로젝트) 똑똑한 반려동물 건강수첩 "바라봄"
+  
+  <div align="left"> 
+      <a href="https://barabom.me"><img style="width:500px;" src="https://barabom.me/assets/img_orimage.jpg"/></a>
+  </div>
   
   홈페이지 : <a href="https://barabom.me">https://barabom.me</a><br/>
   
@@ -64,9 +39,16 @@
   
   별점⭐️과 리뷰💬 한번만 부탁드립니다. 🙏<br/>
  
+
+- (오픈소스 프로젝트) EXPO UI-Component
+  
   <div align="left"> 
-      <a href="https://barabom.me"><img style="width:500px; height:250px;" src="https://barabom.me/assets/img_orimage.jpg"/></a>
+      <img style="width:500px;" src="https://0610studio.github.io/zs-ui/img/zs-banner.png"/>
   </div>
+  
+  <a href="https://0610studio.github.io/zs-ui/">문서 📖</a><br/>
+  
+  <a href="https://github.com/0610studio/zs-ui">Github 🗄️</a><br/>
 
 
 <br/>
